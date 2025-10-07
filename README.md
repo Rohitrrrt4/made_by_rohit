@@ -345,7 +345,7 @@
         <div class="input-section">
             <input type="text" id="nameInput" placeholder="अपना नाम यहाँ लिखें..." />
         </div>
-
+        <div style="font-size: 18;color:#f74905;font-weight: bold; ">आपका नाम यहां लिखो</div>
         <div class="greeting">
             <span class="greeting-name" id="greetingName">आपका नाम</span>
             <div> की तरफ से दिवाली की हार्दिक शुभकामनाएं ! 🎆</div>
