@@ -341,7 +341,7 @@
           <div>  </div>
           <div class="timer-title">समय बाकी </div>
         </div>
-
+        <div style="font-size: 18;color:#f74905;font-weight: bold; ">आपका नाम यहां लिखो</div>
         <div class="input-section">
             <input type="text" id="nameInput" placeholder="अपना नाम यहाँ लिखें..." />
         </div>
