@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="hi">
 <head>
@@ -43,8 +42,8 @@
         }
 
         .container {
-            max-width: 800px;
-            width: 90%;
+            max-width: 850px;
+            width: 95%;
             background: rgba(255, 255, 255, 0.95);
             border-radius: 30px;
             padding: 60px 40px;
